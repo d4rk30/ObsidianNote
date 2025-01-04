@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "编程语言的历史"
             }
+          },
+          {
+            "id": "c4811ab07dedb66b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "会议纪要/2025-1-3 汇报.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-1-3 汇报"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,10 +177,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c465ab8b74c43789",
+  "active": "bb046562149b02ad",
   "lastOpenFiles": [
-    "欢迎.md",
     "NAN课程/编程语言的历史.md",
+    "会议纪要/2025-1-3 汇报.md",
+    "会议纪要",
+    "欢迎.md",
     "NAN课程"
   ]
 }
